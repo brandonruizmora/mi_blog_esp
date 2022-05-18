@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>https://brandonruizmora.github.io/mi_blog_post/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 18:39:41 -0500</lastBuildDate><atom:link href="https://brandonruizmora.github.io/mi_blog_post/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://brandonruizmora.github.io/mi_blog_post/posts/my-first-post/</link>
+    <pubDate>Tue, 17 May 2022 18:39:41 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://brandonruizmora.github.io/mi_blog_post/posts/my-first-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
