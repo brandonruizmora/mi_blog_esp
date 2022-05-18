@@ -1,6 +1,6 @@
 baseURL = 'https://brandonruizmora.github.io/mi_blog_post/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Blog Post'
 theme = 'loveit'
 relativeURLs = true
 canonifyURLs = true
