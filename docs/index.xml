@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>My Blog Post</title>
         <link>https://brandonruizmora.github.io/mi_blog_post/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 18:39:41 -0500</lastBuildDate>
