@@ -1,6 +1,16 @@
+[params]
 baseURL = 'https://brandonruizmora.github.io/mi_blog_post/'
 languageCode = 'en-us'
-title = 'My Blog Post'
+# website title for Open Graph and Twitter Cards
+title = 'Brandon RuizMora Blog Post'
+# website description for RSS, SEO, Open Graph and Twitter Cards
+description = 'Brandon RuizMora blog post'
 theme = 'loveit'
 relativeURLs = true
 canonifyURLs = true
+
+[params.social]
+GitHub = 'brandonruizmora'
+Linkedin = 'brandon-ruiz-morales-95657613a'
+Twitter = 'pandaimpetuoso7'
+Instagram = 'pandaimpetuoso7/'
