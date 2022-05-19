@@ -1,10 +1,7 @@
 [params]
 baseURL = 'https://brandonruizmora.github.io/mi_blog_post/'
 languageCode = 'en-us'
-# website title for Open Graph and Twitter Cards
 title = 'Brandon RuizMora Blog Post'
-# website description for RSS, SEO, Open Graph and Twitter Cards
-description = 'Brandon RuizMora blog post'
 theme = 'loveit'
 relativeURLs = true
 canonifyURLs = true
