@@ -4,6 +4,7 @@ title = 'Brandon RuizMora Blog Post'
 theme = 'loveit'
 relativeURLs = true
 canonifyURLs = true
+enableEmoji = true
 
 [params.social]
 GitHub = 'brandonruizmora'
