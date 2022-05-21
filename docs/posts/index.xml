@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 18:39:41 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Tue, 17 May 2022 18:39:41 -0500</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Brandon RuizMora Blog Post</title>
+        <link>https://brandonruizmora.github.io/mi_blog_post/posts/</link>
+        <description>All Posts | Brandon RuizMora Blog Post</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 18:39:41 -0500</lastBuildDate><atom:link href="https://brandonruizmora.github.io/mi_blog_post/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://brandonruizmora.github.io/mi_blog_post/posts/my-first-post/</link>
+    <pubDate>Tue, 17 May 2022 18:39:41 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://brandonruizmora.github.io/mi_blog_post/posts/my-first-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
